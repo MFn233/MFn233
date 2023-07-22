@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **MFn**
-- ⌨ A coding lover from **China 🇨🇳**
-- 🌏You can visit my website **mfn233.github.io** for more information about me!
+- 👀 A coding lover from **China 🇨🇳** who strives to write a perfect code.
+- 🌏 You can visit my website **mfn233.github.io** for more information about me!
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFn233)](https://github.com/anuraghazra/github-readme-stats)
 
